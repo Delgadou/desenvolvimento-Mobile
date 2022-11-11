@@ -1,4 +1,4 @@
-package com.example.desenvolvimentomobilefaculdade.ui.theme
+package com.example.desenvolvimentomobilefaculdade.ui.theme.ds.atoms
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
